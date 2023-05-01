@@ -4,3 +4,9 @@ C:\Users\inmovery\source\repos\TcpExample\Domain\obj\Debug\Core.csproj.AssemblyR
 C:\Users\inmovery\source\repos\TcpExample\Domain\obj\Debug\Core.csproj.CoreCompileInputs.cache
 C:\Users\inmovery\source\repos\TcpExample\Domain\obj\Debug\Domain.dll
 C:\Users\inmovery\source\repos\TcpExample\Domain\obj\Debug\Domain.pdb
+C:\Users\inmovery\source\repos\TcpExample\Core\bin\Debug\Core.dll
+C:\Users\inmovery\source\repos\TcpExample\Core\bin\Debug\Core.pdb
+C:\Users\inmovery\source\repos\TcpExample\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\inmovery\source\repos\TcpExample\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\inmovery\source\repos\TcpExample\Core\obj\Debug\Core.dll
+C:\Users\inmovery\source\repos\TcpExample\Core\obj\Debug\Core.pdb

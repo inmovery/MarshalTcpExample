@@ -1,8 +1,8 @@
 C:\Users\inmovery\source\repos\TcpExample\Server\bin\Debug\Server.exe.config
 C:\Users\inmovery\source\repos\TcpExample\Server\bin\Debug\Server.exe
 C:\Users\inmovery\source\repos\TcpExample\Server\bin\Debug\Server.pdb
-C:\Users\inmovery\source\repos\TcpExample\Server\bin\Debug\Domain.dll
-C:\Users\inmovery\source\repos\TcpExample\Server\bin\Debug\Domain.pdb
+C:\Users\inmovery\source\repos\TcpExample\Server\bin\Debug\Core.dll
+C:\Users\inmovery\source\repos\TcpExample\Server\bin\Debug\Core.pdb
 C:\Users\inmovery\source\repos\TcpExample\Server\obj\Debug\Server.csproj.AssemblyReference.cache
 C:\Users\inmovery\source\repos\TcpExample\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
 C:\Users\inmovery\source\repos\TcpExample\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache

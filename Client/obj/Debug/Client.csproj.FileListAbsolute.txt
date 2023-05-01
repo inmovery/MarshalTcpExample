@@ -1,8 +1,8 @@
 C:\Users\inmovery\source\repos\TcpExample\Client\bin\Debug\Client.exe.config
 C:\Users\inmovery\source\repos\TcpExample\Client\bin\Debug\Client.exe
 C:\Users\inmovery\source\repos\TcpExample\Client\bin\Debug\Client.pdb
-C:\Users\inmovery\source\repos\TcpExample\Client\bin\Debug\Domain.dll
-C:\Users\inmovery\source\repos\TcpExample\Client\bin\Debug\Domain.pdb
+C:\Users\inmovery\source\repos\TcpExample\Client\bin\Debug\Core.dll
+C:\Users\inmovery\source\repos\TcpExample\Client\bin\Debug\Core.pdb
 C:\Users\inmovery\source\repos\TcpExample\Client\obj\Debug\Client.csproj.AssemblyReference.cache
 C:\Users\inmovery\source\repos\TcpExample\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
 C:\Users\inmovery\source\repos\TcpExample\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
